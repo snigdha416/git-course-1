@@ -1,15 +1,15 @@
 add and remove users
 admin service ..
-<<<<<<< HEAD
+
 admin service...
 Git commands are important in every day life
 =======
 admin service...
->>>>>>> feature1
+
 
 create an avatar for user
 closing the oracle database connection!!
-
+closing the mysql database connection!!
 
 change 1
 change 2 in my database
