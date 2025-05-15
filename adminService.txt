@@ -8,3 +8,4 @@ admin service...
 >>>>>>> feature1
 
 create an avatar for user
+closing the connection!!
