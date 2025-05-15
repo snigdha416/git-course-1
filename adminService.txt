@@ -14,3 +14,6 @@ closing the mysql database connection!!
 change 1
 change 2 in my database
 change 2 in abc's database
+
+react is a light weight
+
