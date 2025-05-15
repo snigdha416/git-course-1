@@ -1,4 +1,0 @@
-add and remove users
-admin service ..
-admin service...
-Git commands are important in every day life
