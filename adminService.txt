@@ -8,7 +8,7 @@ admin service...
 >>>>>>> feature1
 
 create an avatar for user
-closing the connection!!
+closing the oracle database connection!!
 
 
 change 1
