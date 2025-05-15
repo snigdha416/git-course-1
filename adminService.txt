@@ -6,3 +6,5 @@ Git commands are important in every day life
 =======
 admin service...
 >>>>>>> feature1
+
+create an avatar for user
